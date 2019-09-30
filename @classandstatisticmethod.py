@@ -1,0 +1,2 @@
+#ClassMethod and StatisticMethod
+
